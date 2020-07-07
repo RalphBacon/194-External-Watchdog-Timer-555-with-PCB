@@ -1,7 +1,9 @@
 # #194 External Watchdog Timer 555 (with PCB)
 Prevent microcontroller latch ups and hang ups with this circuit re-setter.
 
-We discussed the breadboard circuit in video #190 (https://youtu.be/wcRuVxXlEKw), but here we have the finished product, including the PCB from JLCPCB together with some testing using a signal generator and an oscilloscope.
+See YouTube video in my channel https://youtube.com/ralphbacon (https://youtu.be/WpihLPvY9Ac)
+
+We discussed the breadboard circuit in video #190 (https://youtu.be/wcRuVxXlEKw), but here we have the finished product, including the panelised PCB from JLCPCB together with some testing using a signal generator and an oscilloscope.
 
 The 555 is the most popular integrated circuit ever manufactured. As of 2003, it was estimated that 1 billion units were manufactured every year. And we are using it this week in this timer watchdog that power recycles your Arduino (or other µController of choice) if it hangs up.
 
