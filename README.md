@@ -15,9 +15,7 @@ Special offer for SMT assembly.
 (Special thanks to Michael Kurt Vogel for compiling this)  
 http://bit.ly/YouTubeVideoList-RalphBacon
 
-=============
-INFORMATION
-=============
+### INFORMATION
 
 Elektor Magazine Article (Wolfgang Borst)  
 UK: https://www.electronics-lab.com/free-elektor-circuit-ne555-watchdog-timer/
@@ -27,9 +25,7 @@ https://www.elektormagazine.com/news/small-circuits-can-do-the-job-an-ne555-watc
 555 timer IC
 https://en.wikipedia.org/wiki/555_timer_IC
 
-===========
-HARDWARE
-===========
+### HARDWARE
 10pcs NE555 NE555P NE555N 555 Timers DIP-8  
 https://www.banggood.com/10pcs-NE555-NE555P-NE555N-555-Timers-DIP-8-TEXAS-p-1069802.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
