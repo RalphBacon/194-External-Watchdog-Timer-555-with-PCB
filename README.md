@@ -9,11 +9,8 @@ We discussed the breadboard circuit in video #190 (https://youtu.be/wcRuVxXlEKw)
 
 The 555 is the most popular integrated circuit ever manufactured. As of 2003, it was estimated that 1 billion units were manufactured every year. And we are using it this week in this timer watchdog that power recycles your Arduino (or other µController of choice) if it hangs up.
 
-JLCPCB Only $2 for PCB Prototype any colour https://jlcpcb.com/
+### JLCPCB Only $2 for PCB Prototype any colour https://jlcpcb.com/  
 Special offer for SMT assembly.
-
-00:00 Welcome Back!  
-
 
 ### List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
