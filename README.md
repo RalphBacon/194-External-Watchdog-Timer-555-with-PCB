@@ -1,7 +1,9 @@
 # #194 External Watchdog Timer 555 (with PCB)
 Prevent microcontroller latch ups and hang ups with this circuit re-setter.
 
-See YouTube video in my channel https://youtube.com/ralphbacon (https://youtu.be/WpihLPvY9Ac)
+[YouTube video #194]: https://youtu.be/WpihLPvY9Ac
+
+See [YouTube video #194] in my channel https://youtube.com/ralphbacon  
 
 We discussed the breadboard circuit in video #190 (https://youtu.be/wcRuVxXlEKw), but here we have the finished product, including the panelised PCB from JLCPCB together with some testing using a signal generator and an oscilloscope.
 
