@@ -3,7 +3,7 @@ Prevent microcontroller latch ups and hang ups with this circuit re-setter.
 
 [YouTube video #194]: https://youtu.be/WpihLPvY9Ac
 
-See [YouTube video #194] in my channel https://youtube.com/ralphbacon  
+## See [YouTube video #194] in my channel https://youtube.com/ralphbacon  
 
 We discussed the breadboard circuit in video #190 (https://youtu.be/wcRuVxXlEKw), but here we have the finished product, including the panelised PCB from JLCPCB together with some testing using a signal generator and an oscilloscope.
 
